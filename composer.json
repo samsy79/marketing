@@ -1,0 +1,18 @@
+{
+    "name": "sams/marketing",
+    "description": "package for marketing ; to your store , your ecom project  ; personilized marketing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sams\\Marketing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "samsy79",
+            "email": "titussamson007@gmail.com"
+        }
+    ],
+    "require": {}
+}
